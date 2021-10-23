@@ -1,0 +1,41 @@
+input[type='text'] {
+	outline: none;
+	border: none;
+}
+input[type='text']:hover {
+	border-bottom: 1px solid violet;
+}
+input[type='text']:focus {
+	border-bottom: 1px solid violet;
+}
+button {
+	background-color: pink;
+	color: white;
+	border: none;
+	padding: 10px;
+}
+button:hover {
+	background-color: black;
+	color: white;
+	cursor: pointer;
+}
+.form {
+	margin-top: 2rem;
+	display: flex;
+}
+
+h1 {
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 15px;
+	margin: 0;
+}
+
+table,
+td,
+th {
+	border: 1px solid;
+	border-collapse: collapse;
+	padding: 5px;
+}
