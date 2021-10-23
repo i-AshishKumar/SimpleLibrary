@@ -44,7 +44,3 @@ function reset() {
 	document.getElementById('author').value = ''
 	document.getElementById('pages').value = ''
 }
-
-// for (let i = myLibrary.length; i > 0; i--) {
-// 	console.log(myLibrary[i].name)
-// }
