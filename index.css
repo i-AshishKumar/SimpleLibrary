@@ -8,13 +8,13 @@ input[type='text']:hover {
 input[type='text']:focus {
 	border-bottom: 1px solid violet;
 }
-button {
+#add {
 	background-color: pink;
 	color: white;
 	border: none;
 	padding: 10px;
 }
-button:hover {
+#add:hover {
 	background-color: black;
 	color: white;
 	cursor: pointer;
